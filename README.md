@@ -25,6 +25,5 @@ https://github.com/user-attachments/assets/762a5e75-ac6b-4534-bef0-fc8fbd7e3f9f
 ## LDR com Python
 ![{67B4E02F-602C-4065-BF95-D90A6D0EB112}](https://github.com/user-attachments/assets/d9f61f46-fb45-48ab-9719-c667aad21bc8)
 
-
 https://github.com/user-attachments/assets/d9c7d3f2-7424-4149-8d5f-0f0ff8f27cab
 
