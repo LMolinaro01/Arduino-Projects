@@ -2,7 +2,7 @@
 
 ## Projetos:
 
-* [MotionPrinter(Outro Repositório)](https://github.com/LMolinaro01/Motion-Printer)
+* [MotionPrinter (Outro Repositório)](https://github.com/LMolinaro01/Motion-Printer)
 
 ## Exercícios:
 
